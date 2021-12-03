@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi I'm George Magdy
 
-<!--
-**gemmen29/gemmen29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Remote Full-stack web developer_
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-George%20Magdy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-magdy-840/)](https://www.linkedin.com/in/george-magdy-840/)
+[![Twitter Badge](https://img.shields.io/badge/-@georgtriple1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/georgtriple1)](https://twitter.com/georgtriple1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- I have a degree in computer science.
+- I finished a diplome in my country called ITI in Full-Stack development
+- I am Now Microverse student in second module
+
+## Github Status
+
+![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gemmen29&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemmen29&layout=compact)](https://github.com/gemmen29)
+
+**You can check out my portfolio [here](https://gemmen29.github.io/Portfolio/)**
