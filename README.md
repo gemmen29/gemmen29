@@ -9,7 +9,7 @@ _Remote Full-stack web developer_
 ## About
 
 - I have a degree in computer science.
-- I finished a scholarship in my country called ITI in Full-Stack development.
+- I finished a scholarship in my country called ITI in full-stack development.
 - I am now a Microverse student.
 
 ## Github Status
