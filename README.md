@@ -16,6 +16,8 @@ _Remote Full-stack web developer_
 
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gemmen29&show_icons=true&theme=dracula)
 
+![George's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gemmen29&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemmen29&layout=compact&theme=dracula)](https://github.com/gemmen29)
 
 
