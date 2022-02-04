@@ -15,13 +15,19 @@
 
 ## Github Status
 
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=gemmen29&show_icons=true&theme=dracula)
-
-![George's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gemmen29&theme=dracula)
+<a href='https://github.com/gemmen29'>
+  <img width='495px' src='https://github-readme-stats.vercel.app/api?username=gemmen29&show_icons=true&theme=dracula'>
+</a>
 
 <a href='https://github.com/gemmen29'>
-  <img width='495px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gemmen29&layout=compact&theme=dracula'>
+  <img width='495px' src='https://github-readme-streak-stats.herokuapp.com/?user=gemmen29&theme=dracula'>
 </a>
+
+<div align='center'>
+  <a href='https://github.com/gemmen29'>
+    <img width='495px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gemmen29&layout=compact&theme=dracula'>
+  </a>
+</div>
 
 
 **You can check out my portfolio [here](https://gemmen29.github.io/Portfolio/)** <br>
