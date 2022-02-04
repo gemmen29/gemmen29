@@ -19,8 +19,9 @@
 
 ![George's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gemmen29&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemmen29&layout=compact&theme=dracula)](https://github.com/gemmen29)
-
+<a href='https://github.com/gemmen29'>
+  <img width='495px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=gemmen29&layout=compact&theme=dracula'>
+</a>
 
 
 **You can check out my portfolio [here](https://gemmen29.github.io/Portfolio/)** <br>
