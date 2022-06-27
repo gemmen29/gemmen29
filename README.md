@@ -11,7 +11,7 @@
 
 - I have a degree in computer science.
 - I finished a scholarship in my country called ITI in full-stack development.
-- I finished Microverse.
+- I finished [Microverse](https://www.microverse.org/).
 - Now, I'm looking for new opportunity.
 
 ## Github Status
