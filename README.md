@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-George%20Magdy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/george-magdy-840/)](https://www.linkedin.com/in/george-magdy-840/)
 [![Twitter Badge](https://img.shields.io/badge/-@georgtriple1_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/georgtriple1)](https://twitter.com/georgtriple1)
-[![HackerRank Badge](https://img.shields.io/badge/-@gemmen29_-1ba94c?style=flat-square&labelColor=1ba94c&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gemmen29)]
+[![HackerRank Badge](https://img.shields.io/badge/-@gemmen29_-1ba94c?style=flat-square&labelColor=1ba94c&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/gemmen29)](https://www.hackerrank.com/gemmen29)
 
 ## About
 
