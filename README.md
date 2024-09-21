@@ -30,4 +30,4 @@
 
 
 **You can check out my portfolio [here](https://gemmen29.github.io/Portfolio/)** <br>
-**You can check out my CV [here](https://drive.google.com/file/d/1ncFp-9EMLF9tuX-_t5JghD19H5CLfZ0L/view?usp=sharing)** <br>
+**You can check out my CV [here](https://drive.google.com/file/d/1NXILEmdosY7J2gfe-8Kae3AySnemgoCN/view?usp=sharing)** <br>
